@@ -95,3 +95,12 @@ Application.ScreenUpdating = False
 
 '   Display Alerts is used to stop pop-ups while deleting Worksheet
  Application.DisplayAlerts = False
+
+
+ '''
+ 'different kinds of notation in vba for reprecenting a cell.
+ '1. A1 Style notation
+ '2. R1C1 Style notation 
+
+  'https://powerspreadsheets.com/r1c1-formular1c1-vba/
+ '''
